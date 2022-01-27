@@ -1,0 +1,44 @@
+[
+  {
+    "id"  : 1,
+    "name": "Sun Yue",
+    "team": "Lakers",
+    "points": 6
+  },
+  {
+    "id"  : 2,
+    "name": "Arron Afflalo",
+    "team": "Rockets",
+    "points": 724
+  },
+  {
+    "id"  : 3,
+    "name": "Alexis Ajinca",
+    "team": "Bobcats",
+    "points": 10
+  },
+  {
+    "id"  : 4,
+    "name": "LaMarcus Aldridge",
+    "team": "Trailblazers",
+    "points": 1393
+  },
+  {
+    "id"  : 5,
+    "name": "Joe Alexander",
+    "team": "Bulls",
+    "points": 4
+  },
+  {
+    "id"  : 6,
+    "name": "Malik Allen",
+    "team": "Rockets",
+    "points": 105
+  },
+  {
+    "id"  : 7,
+    "name": "Ray Allen",
+    "team": "Celtics",
+    "points": 1304
+  },
+]
