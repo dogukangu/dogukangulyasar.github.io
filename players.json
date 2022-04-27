@@ -1,50 +1,44 @@
 [
     {
-        "id": 1,
-        "name": "Dogukan",
-        "surname": "Gulyasar",
-        "age": 30
-    },
-    {
-        "id": 2,
-        "name": "Berkim",
-        "surname": "Kavran",
-        "age": 20
-    },
-    {
-        "id": 1,
-        "name": "Dogukan",
-        "surname": "Gulyasar",
-        "age": 30
-    },
-    {
-        "id": 2,
-        "name": "Berkim",
-        "surname": "Kavran",
-        "age": 20
-    },
-    {
-        "id": 1,
-        "name": "Dogukan",
-        "surname": "Gulyasar",
-        "age": 30
-    },
-    {
-        "id": 2,
-        "name": "Berkim",
-        "surname": "Kavran",
-        "age": 20
-    },
-    {
-        "id": 1,
-        "name": "Dogukan",
-        "surname": "Gulyasar",
-        "age": 30
-    },
-    {
-        "id": 2,
-        "name": "Berkim",
-        "surname": "Kavran",
-        "age": 20
-    }
+    "id"  : 1,
+    "name": "Sun",
+    "surname": "Yue",
+    "age": 20
+  },
+  {
+    "id"  : 2,
+    "name": "Arron",
+    "surname": "Afflalo",
+    "age": 20
+  },
+  {
+    "id"  : 3,
+    "name": "Alexis",
+    "surname": "Ajinca",
+    "age": 20
+  },
+  {
+    "id"  : 4,
+    "name": "LaMarcus",
+    "surname": "Aldridge",
+    "age": 20
+  },
+  {
+    "id"  : 5,
+    "name": "Joe",
+    "surname": "Alexander",
+    "age": 20
+  },
+  {
+    "id"  : 6,
+    "name": "Malik",
+    "surname": "Allen",
+    "age": 20
+  },
+  {
+    "id"  : 7,
+    "name": "Ray",
+    "surname": "Allen",
+    "age": 20
+  }
 ]
